@@ -35,7 +35,7 @@ class InjectComponent {
   @Inject
   person;
 
-  @Inject({ default: {name: 'unknown', age: 0} })
+  @Inject({ default: { name: 'unknown', age: 0 } })
   anotherPerson;
 
   mounted() {

@@ -81,7 +81,7 @@ class WatchComponent {
     console.log('WatchComponent.onValue1Changed: exit');
   }
 
-  @Watch('value2', {immediate: true})
+  @Watch('value2', { immediate: true })
   onValue2Changed(val, oldVal) {
     console.log('WatchComponent.onValue2Changed: enter, val = ', val, ', oldVal = ', oldVal);
     this.value2ChangeCount++;
@@ -102,7 +102,7 @@ class WatchComponent {
     console.log('WatchComponent.onPerson1Changed: exit');
   }
 
-  @Watch('person2', {deep : true})
+  @Watch('person2', { deep: true })
   onPerson2Changed(val, oldVal) {
     console.log('WatchComponent.onPerson2Changed: enter, val = ', val, ', oldVal = ', oldVal);
     this.person2ChangeCount++;

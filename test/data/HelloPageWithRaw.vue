@@ -57,7 +57,7 @@ class HelloPageWithRaw {
 
   value1 = 1;
 
-  value2 = 2
+  value2 = 2;
 
   @Raw
   rawValue1 = 3;
