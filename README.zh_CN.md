@@ -3,8 +3,8 @@
 [![npm package](https://img.shields.io/npm/v/@qubit-ltd/vue3-class-component.svg)](https://npmjs.com/package/@qubit-ltd/vue3-class-component)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![English Document](https://img.shields.io/badge/Document-English-blue.svg)](README.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/vue3-class-component/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/vue3-class-component/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/vue3-class-component/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/vue3-class-component?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/vue3-class-component/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/vue3-class-component/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/vue3-class-component/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/vue3-class-component?branch=master)
 
 *最后更新：2024年5月*
 
@@ -1034,11 +1034,11 @@ export default toVue(HelloPage);
 [使用符号键]: https://vuejs.org/guide/components/provide-inject.html#working-with-symbol-keys
 [使用响应式]: https://vuejs.org/guide/components/provide-inject#working-with-reactivity
 [vue3-class-component]: https://npmjs.com/package/@qubit-ltd/vue3-class-component
-[vue3-class-component-demo-webpack]: https://github.com/Haixing-Hu/vue3-class-component-demo-webpack
-[vue3-class-component-demo-vite]: https://github.com/Haixing-Hu/vue3-class-component-demo-vite
+[vue3-class-component-demo-webpack]: https://github.com/qubit-ltd/vue3-class-component-demo-webpack
+[vue3-class-component-demo-vite]: https://github.com/qubit-ltd/vue3-class-component-demo-vite
 [vite-plugin-vue]: https://www.npmjs.com/package/@vitejs/plugin-vue
 [vite-plugin-babel]: https://www.npmjs.com/package/vite-plugin-babel
 [我们的 vite-plugin-babel 插件]: https://npmjs.com/package/@qubit-ltd/vite-plugin-babel
-[GitHub 仓库]: https://github.com/Haixing-Hu/vue3-class-component
+[GitHub 仓库]: https://github.com/qubit-ltd/vue3-class-component
 [@qubit-ltd/typeinfo]: https://npmjs.com/package/@qubit-ltd/typeinfo
 [@qubit-ltd/clone]: https://npmjs.com/package/@qubit-ltd/clone
